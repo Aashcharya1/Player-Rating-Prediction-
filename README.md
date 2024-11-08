@@ -1,1 +1,2 @@
 # Player-Rating-Prediction-
+Three beginner, intermediate, and advanced bots played approximately 72K games, according to the dataset. The bots and their regularly logged-in opponents play games against one another. We are predicting the rating of the human opponents in the test set (test.csv) using metadata about the games and turns in each game (i.e., player's racks and where and what they played, AKA gameplay). To create predictions about a different set of human opponents in the test set, we will train your model using gaming data from one set of human opponents.
